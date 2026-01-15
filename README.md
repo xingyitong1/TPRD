@@ -2,6 +2,9 @@
 Yitong Xing, Yuhao Cheng, Yanping Li, Yichao Yan
 
 <p align="center">
+  <img src="comparison.png" alt="Logo"/>
+</p>
+<p align="center">
   <img src="overview.png" alt="Logo"/>
 </p>
 

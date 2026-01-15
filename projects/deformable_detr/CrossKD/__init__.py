@@ -1,0 +1,5 @@
+from .distill_deformable_detr import DistillDeformableDETR
+from .distiller import Distiller
+from .distill_criterion import DistillCriterion
+from .distill_deformable_transformer import DistillDeformableDetrTransformer,DeformableDetrTransformerEncoder,DeformableDetrTransformerDecoder
+from .distill_matcher import DistillHungarianMatcher

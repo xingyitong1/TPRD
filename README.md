@@ -1,6 +1,9 @@
-# <p align="center">TPRD</p>
+# <p align="center"> TPRD：Enhanced Knowledge Distillation for Detection Transformer via Teacher Prediction Refinement</p>
+Yitong Xing, Yuhao Cheng, Yanping Li, Yichao Yan
 
-This repository is the official implementation of **Enhanced Knowledge Distillation for Detection Transformer via Teacher Prediction Refinement**.
+<p align="center">
+  <img src="overview.png" alt="Logo"/>
+</p>
 
 ## Project Overview
 
